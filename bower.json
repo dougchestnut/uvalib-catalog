@@ -1,0 +1,7 @@
+{
+  "name": "uvalib-catalog#gh-pages",
+  "private": true,
+  "dependencies": {
+    "uvalib-catalog": "dougchestnut/uvalib-catalog#master"
+  }
+}
